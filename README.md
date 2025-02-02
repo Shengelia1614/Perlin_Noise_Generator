@@ -14,6 +14,13 @@ Grid size 50:
 ![image](https://github.com/user-attachments/assets/4f31e49e-7fb4-4302-84f8-2e784d3ae538)
 
 
-grid size 150:
+Grid size 150:
 
 ![Screenshot 2025-02-02 152439](https://github.com/user-attachments/assets/2faf7534-5355-4de6-b1d0-6f4efce9c0bf)
+
+
+Running on grid size 100 100
+
+
+https://github.com/user-attachments/assets/d6a1e0dc-0c3e-458d-b51f-ae6f2cca9323
+
