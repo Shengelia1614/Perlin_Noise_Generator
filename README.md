@@ -19,7 +19,7 @@ Grid size 150:
 ![Screenshot 2025-02-02 152439](https://github.com/user-attachments/assets/2faf7534-5355-4de6-b1d0-6f4efce9c0bf)
 
 
-Running on grid size 100 100
+Running on grid size 100:
 
 
 https://github.com/user-attachments/assets/d6a1e0dc-0c3e-458d-b51f-ae6f2cca9323
